@@ -13,7 +13,7 @@ print(z)
 
 # get user inputs
 a = input("Enter value for A : ")
-b = input("Enter value for B : ")
+b = input("Enter value for B : ") // njkjniokmlmklkllllll
 
 # print as string
 print(a+b) 
